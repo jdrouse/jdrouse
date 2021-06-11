@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdrouse
+- 👋 Hi, I’m John Rouse. CG Supervisor currently at FuseFX Los Angeles.
 - 👀 I’m interested in VFX production tools.
 - 📫 How to reach me: jdrouse@gmail.com
 
